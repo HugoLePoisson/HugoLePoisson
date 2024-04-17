@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Cloud, IoT and NLP
-- 🌱 I’m currently learning on Deep Learning and Python
+- 🌱 I’m currently learning on Data Mining and Python
 - 💬 Ask me about DLT and Java Computing
 - 📫 How to reach me: hugo.laface@insa-lyon.fr
